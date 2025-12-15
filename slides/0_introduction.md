@@ -1,9 +1,14 @@
 # About Hackathon
 
-
-
-* Submission deadline: 12:00
-
+* Usual Kaggle competition rules from our course are applied. Except for:
+  * Submission deadline: 12:00
+  * Number of submission attempts: **15**
+  * **Ok to use these models:**
+    * **Any model** discussed in Modules 1 & 2 of Machine Learning course for DSBA and ICEF (2025) except for the models listed in the following item.
+  * **Not Ok to use these models:**
+    * The use of any **artificial neural networks** is **prohibited** (including multilayer perceptron).
+    * The use of [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning) is **prohibited**.
+  * Model stacking/blending is allowed.
 * Awards ceremony: 12:20
 
 ---
