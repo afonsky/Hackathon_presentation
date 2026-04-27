@@ -29,10 +29,10 @@ drawings:
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 
-title: Machine Learning
+title: Deep Learning
 hideInToc: true
-subtitle: ML Hackathon
-date: 15/12/2025
+subtitle: DL Hackathon
+date: 27/04/2026
 venue: HSE
 author: Alexey Boldyrev, Teaching Team
 ---
