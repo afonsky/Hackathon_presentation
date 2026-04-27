@@ -4,18 +4,20 @@ zoom: 0.8
 
 # About Hackathon
 
-* Usual to our course Kaggle competition rules are applied. Except for:
+* Usual to our course [Kaggle competition rules](https://colab.research.google.com/drive/1owkYjuRGkx050LQnM3b3yTzd0Dr2XbeV) are applied. Except for:
   * In-person participation only
     * Must be verified using selfie with a Teaching Team member in R304
   * Competition start: 09:40
   * Final submission deadline: 12:20
+  * ❗0️grade if submitted after deadline
+  * ❗0️grade if the solution code doesn't run in Colab environment from start to end
   * Number of submission attempts: **15**
-  * 1. **Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.**
-  * 1. **Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)**.
-  * 1. Model stacking/blending is allowed.
-  * 1. You can also use clustering algorithms and dimensions reduction algorithms (`PCA()` in SKL, etc.).
-  * 1. Ok to engineer features, tune hyperparameters/optimizers, sub/oversample, regularize, do stepwise selection, reduce dimensions, use CPU/GPU/TPU.
-  * LLMs are allowed with proper documentation (see the next slide).
+  * ✅ **Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.**
+  * 🚫 **Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)**.
+  * ✅ Model stacking/blending is allowed.
+  * ✅ You can also use clustering algorithms and dimensions reduction algorithms (`PCA()` in SKL, etc.).
+  * ✅ Ok to engineer features, tune hyperparameters/optimizers, sub/oversample, regularize, do stepwise selection, reduce dimensions, use CPU/GPU/TPU.
+  * ⚠️ LLMs are allowed with proper documentation (see the next slide).
 
 ---
 zoom: 0.6
