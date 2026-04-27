@@ -1,5 +1,5 @@
 ---
-zoom: 0.8
+zoom: 0.82
 ---
 
 # About Hackathon
@@ -12,12 +12,12 @@ zoom: 0.8
   * ❗0️grade if submitted after deadline
   * ❗0️grade if the solution code doesn't run in Colab environment from start to end
   * Number of submission attempts: **15**
-  * ✅ **Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.**
-  * 🚫 **Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)**.
-  * ✅ Model stacking/blending is allowed.
-  * ✅ You can also use clustering algorithms and dimensions reduction algorithms (`PCA()` in SKL, etc.).
-  * ✅ Ok to engineer features, tune hyperparameters/optimizers, sub/oversample, regularize, do stepwise selection, reduce dimensions, use CPU/GPU/TPU.
-  * ⚠️ LLMs are allowed with proper documentation (see the next slide).
+  * ✅ Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.
+  * 🚫 Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)
+  * ✅ Model stacking/blending is allowed
+  * ✅ You can also use clustering algorithms and dimensions reduction algorithms (`PCA()` in SKL, etc.)
+  * ✅ Ok to engineer features, tune hyperparameters/optimizers, sub/oversample, regularize, do stepwise selection, reduce dimensions, use CPU/GPU/TPU
+  * ⚠️ LLMs as helpers are allowed with proper documentation (see the next slide).
 
 ---
 zoom: 0.6
