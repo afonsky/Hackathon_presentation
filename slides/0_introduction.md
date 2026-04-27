@@ -6,12 +6,12 @@ zoom: 0.82
 
 * Usual to our course [Kaggle competition rules](https://colab.research.google.com/drive/1owkYjuRGkx050LQnM3b3yTzd0Dr2XbeV) are applied. Except for:
   * In-person participation only
-    * Must be verified using selfie with a Teaching Team member in R304
-  * Competition start: 09:40
-  * Final submission deadline: 12:20
+    * Must be verified in advance using selfie with a Teaching Team member in R304
+  * Competition start: 09:35
+  * Final submission deadline: 12:25
   * ❗0️grade if submitted after deadline
   * ❗0️grade if the solution code doesn't run in Colab environment from start to end
-  * Number of submission attempts: **15**
+  * **Number of submission attempts: 15**
   * ✅ Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.
   * 🚫 Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)
   * ✅ Model stacking/blending is allowed
