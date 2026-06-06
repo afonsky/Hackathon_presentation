@@ -29,12 +29,12 @@ drawings:
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 
-title: Deep Learning
+title: Machine Learning
 hideInToc: true
-subtitle: DL Hackathon
-date: 27/04/2026
+subtitle: ML Hackathon
+date: 06/06/2026
 venue: HSE
-author: Alexey Boldyrev, Teaching Team
+author: Alexey Boldyrev, Maksim Karpov, Saraa Ali, Teaching Team
 ---
 
 <br>
@@ -57,31 +57,13 @@ Wallach Division Picture Collection<br> The New York Public Library.
   <img src="/logo/FCS_logo_full_L.svg" class="h-18">
 </div>
 
-<div class="abs-tl mx-5 my-30">
+<div class="abs-tr mx-5 my-5">
   <img src="/logo/DSBA_logo.png" class="h-28">
 </div>
 
-<div class="abs-tr mx-5 my-5">
+<!-- <div class="abs-tr mx-5 my-5">
   <img src="/logo/ICEF_logo.png" class="h-28">
-</div>
-
-<style>
-  :deep(footer) { padding-bottom: 3em !important; }
-</style>
-
-
-
-<div class="abs-tl mx-5 my-10">
-  <img src="/logo/FCS_logo_full_L.svg" class="h-18">
-</div>
-
-<div class="abs-tl mx-5 my-30">
-  <img src="/logo/DSBA_logo.png" class="h-28">
-</div>
-
-<div class="abs-tr mx-5 my-5">
-  <img src="/logo/ICEF_logo.png" class="h-28">
-</div>
+</div> -->
 
 <style>
   :deep(footer) { padding-bottom: 3em !important; }
