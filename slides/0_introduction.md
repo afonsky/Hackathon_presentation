@@ -12,8 +12,8 @@ zoom: 0.82
   * ❗0️grade if submitted after deadline
   * ❗0️grade if the solution code doesn't run in Colab environment from start to end
   * **Number of submission attempts: 15**
-  * ✅ Ok to use any model trained in Colab within allowed runtime and popular pre-trained models.
-  * 🚫 Not Ok to use the models pre-trained on the [original dataset](https://www.kaggle.com/competitions/python-and-analyze-data-final-project/overview)
+  * ✅ Ok to use any models and techniques covered in our ML course.
+  * 🚫 Not Ok to use Artificial Neural Networks / Deep Learning models.
   * ✅ Model stacking/blending is allowed
   * ✅ You can also use clustering algorithms and dimensions reduction algorithms (`PCA()` in SKL, etc.)
   * ✅ Ok to engineer features, tune hyperparameters/optimizers, sub/oversample, regularize, do stepwise selection, reduce dimensions, use CPU/GPU/TPU
